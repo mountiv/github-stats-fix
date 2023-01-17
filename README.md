@@ -23,5 +23,5 @@ I just changed `github-readme-stats.vercel.app/api` to `github-readme-stats-git-
 
 Please try this. It really works!
 
-## License & Copyright 
-© lucky7123
+## Author 
+© me added author name

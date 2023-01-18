@@ -24,4 +24,4 @@ I just changed `github-readme-stats.vercel.app/api` to `github-readme-stats-git-
 Please try this. It really works!
 
 ## Author 
-© me added author name
+© me
